@@ -39,6 +39,18 @@ font {
     box-shadow: 5px 5px 0px 5px rgb(54, 8, 87);
 }
 
+.image {
+    size: 25%;
+    width: 15%;
+    height: 10%;
+    margin: 15px;
+    padding: 20px;
+    border: 5px solid rgb(55, 15, 83);
+    border-radius: 16px;
+    background-color: rgb(95, 13, 153);
+    box-shadow: 5px 5px 0px 5px rgb(54, 8, 87);
+}
+
 
 .kao {
     font-family: mochiypopone;
